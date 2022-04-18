@@ -1,2 +1,3 @@
 # spoj
-My SPOJ's solution
+
+Learn Data Structures and Algorithms
