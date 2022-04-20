@@ -1,0 +1,15 @@
+D:\zTamLT\Projects\data-structures-n-algorithms\LeetCode\c-sharp\bin\Debug\net6.0\c-sharp.exe
+D:\zTamLT\Projects\data-structures-n-algorithms\LeetCode\c-sharp\bin\Debug\net6.0\c-sharp.deps.json
+D:\zTamLT\Projects\data-structures-n-algorithms\LeetCode\c-sharp\bin\Debug\net6.0\c-sharp.runtimeconfig.json
+D:\zTamLT\Projects\data-structures-n-algorithms\LeetCode\c-sharp\bin\Debug\net6.0\c-sharp.dll
+D:\zTamLT\Projects\data-structures-n-algorithms\LeetCode\c-sharp\bin\Debug\net6.0\c-sharp.pdb
+D:\zTamLT\Projects\data-structures-n-algorithms\LeetCode\c-sharp\obj\Debug\net6.0\c-sharp.csproj.AssemblyReference.cache
+D:\zTamLT\Projects\data-structures-n-algorithms\LeetCode\c-sharp\obj\Debug\net6.0\c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\zTamLT\Projects\data-structures-n-algorithms\LeetCode\c-sharp\obj\Debug\net6.0\c-sharp.AssemblyInfoInputs.cache
+D:\zTamLT\Projects\data-structures-n-algorithms\LeetCode\c-sharp\obj\Debug\net6.0\c-sharp.AssemblyInfo.cs
+D:\zTamLT\Projects\data-structures-n-algorithms\LeetCode\c-sharp\obj\Debug\net6.0\c-sharp.csproj.CoreCompileInputs.cache
+D:\zTamLT\Projects\data-structures-n-algorithms\LeetCode\c-sharp\obj\Debug\net6.0\c-sharp.dll
+D:\zTamLT\Projects\data-structures-n-algorithms\LeetCode\c-sharp\obj\Debug\net6.0\refint\c-sharp.dll
+D:\zTamLT\Projects\data-structures-n-algorithms\LeetCode\c-sharp\obj\Debug\net6.0\c-sharp.pdb
+D:\zTamLT\Projects\data-structures-n-algorithms\LeetCode\c-sharp\obj\Debug\net6.0\c-sharp.genruntimeconfig.cache
+D:\zTamLT\Projects\data-structures-n-algorithms\LeetCode\c-sharp\obj\Debug\net6.0\ref\c-sharp.dll
